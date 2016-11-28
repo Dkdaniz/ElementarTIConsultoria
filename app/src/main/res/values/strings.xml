@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ElementarTI-Daniz</string>
+    <string name="Empresa_Detalhes">Sobre a empresa</string>
+    <string name="servicos">Serviços</string>
+    <string name="Texto_Consultoria">Consutoria</string>
+    <string name="Texto_Processos">Processos</string>
+    <string name="Texto_Acompanhamento">Acompanhamento e projetos</string>
+    <string name="Clientes">Nossos Clientes</string>
+    <string name="Cliente_Um">Empresa de desenvolvimento de sistema</string>
+    <string name="Cliente_Dois">Empresa no ramo de Auditoria</string>
+    <string name="Contato">Contato</string>
+    <string name="Contato_Email">dkdaniz@outlook.com</string>
+    <string name="Contato_Fone">(041)3261-1456</string>
+    <string name="Contato_Celular">(041)9999-9999</string>
+</resources>
